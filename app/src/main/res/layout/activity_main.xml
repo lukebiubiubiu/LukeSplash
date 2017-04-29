@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:pv="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+    <com.lukebiubiubiu.splashview.SplashView
+        android:id="@+id/mSplashView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        pv:pv_background_color="@color/colorPrimary"
+        pv:pv_host_text="lukebiubiubiu"
+        pv:pv_host_text_size="50sp"
+        pv:pv_particle_text=".com"
+        pv:pv_particle_text_size="20sp"
+        pv:pv_text_color="#FFF"
+        pv:pv_text_anim_time="1000"
+        pv:pv_spread_anim_time="1000"
+        pv:pv_host_text_anim_time="1000" />
+</LinearLayout>
