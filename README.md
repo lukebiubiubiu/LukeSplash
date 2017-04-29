@@ -71,9 +71,12 @@ Step 1. Add it in your project's build.gradle at the end of repositories:
 
 Step 2. Add the dependency:
 
-dependencies {
-	        compile 'com.github.lukebiubiubiu:LukeSplash:v1.0.0'
+```gradle
+	dependencies {
+	        compile 'com.github.lukebiubiubiu:VentilationSafety:v1.0.0'
 	}
+
+```
 
 ### wechat 欢迎讨论
 
