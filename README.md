@@ -73,8 +73,9 @@ Step 2. Add the dependency:
 
 ```gradle
 	dependencies {
-	        compile 'com.github.lukebiubiubiu:VentilationSafety:v1.0.0'
+	       compile 'com.github.lukebiubiubiu:LukeSplash:v1.0.0'
 	}
+
 
 ```
 
