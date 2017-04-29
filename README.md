@@ -59,6 +59,7 @@ mSplashView.setOnParticleAnimListener(new SplashView.ParticleAnimListener() {
 ## Import
 
 Step 1. Add it in your project's build.gradle at the end of repositories:
+
 如何使用 帅比luke哥教你
 
 	allprojects {
@@ -73,9 +74,6 @@ Step 2. Add the dependency:
 dependencies {
 	        compile 'com.github.lukebiubiubiu:LukeSplash:v1.0.0'
 	}
-
-### About Me
-闪光科技最帅的人就是我了
 
 ### wechat 欢迎讨论
 
